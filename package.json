@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taylonr/async-programming-promises.git"
+    "url": "git+https://github.com/dris1995/async-javascript.git"
   },
-  "author": "Nate Taylor (taylonr@gmail.com)",
+  "author": "Idris",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/taylonr/async-programming-promises/issues"
+    "url": "https://github.com/dris1995/async-javascript/issues"
   },
-  "homepage": "https://github.com/taylonr/async-programming-promises#readme",
+  "homepage": "https://github.com/dris1995/async-javascript#readme",
   "dependencies": {
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
